@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# 1. IMDB Movie Visualization
 
-You can use the [editor on GitHub](https://github.com/akanshakhandelwal/akanshakhandelwal.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+In this project, data was for the 100 top-rated movies from the past decade along with various pieces of information about the movie, its actors, and the voters who have rated these movies online. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have used visualization techniques to derive various insights from the data:
+-  Highest rated movies which have been liked by critics and audiences alike.
+-  Most Popular Trios
+-  Demographic Analysis
 
-### Markdown
+Project Link - https://github.com/akanshakhandelwal/EDA/blob/main/IMDb%2BMovie%2BAssignment.ipynb
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#2. Risk Analytics in Banking and Financial Services using EDA
 
-```markdown
-Syntax highlighted code block
+The loan providing companies find it hard to give loans to the people due to their insufficient or non-existent credit history. Because of that, some consumers use it as their advantage by becoming a defaulter.
+This analysis aims to identify patterns which indicate if a client has difficulty paying their instalments which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc. This will ensure that the consumers capable of repaying the loan are not rejected.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Project Link - https://github.com/akanshakhandelwal/EDA/blob/main/Credit%20Risk%20Analysis/creditriskanalysis.ipynb
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akanshakhandelwal/akanshakhandelwal.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
